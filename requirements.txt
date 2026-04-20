@@ -1,9 +1,5 @@
-# Force Python Version Compatibility
-python_version < "3.12"
-
-# Essential Libraries
-streamlit==1.32.0
-ultralytics==8.1.0
-opencv-python-headless==4.8.0.76
+streamlit
+ultralytics
+opencv-python-headless
 pillow
 numpy<2.0.0
